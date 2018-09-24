@@ -231,6 +231,10 @@
         text-align: center;
     }
     
+    .swiper-slide p, span {
+        font-size: 0.8rem;
+    }
+    
     .history {
         padding: 7%;
     }
